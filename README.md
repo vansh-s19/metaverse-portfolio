@@ -1,4 +1,4 @@
-Project Documentation: 3D Portfolio Web Application
+# 3D Portfolio MetaVerse 
 
 1. Project Overview
 
@@ -155,21 +155,3 @@ Available Scripts
 	•	Sound effects and background audio
 	•	Mobile responsiveness optimization
 	•	Deployment and hosting
-
-⸻
-
-13. Evaluation Summary (For Viva / Review)
-
-This project demonstrates:
-	•	Advanced frontend development skills
-	•	Practical use of 3D graphics on the web
-	•	Strong understanding of React, TypeScript, and modern tooling
-	•	Ability to design scalable and interactive applications
-
-It goes beyond a traditional portfolio and highlights creativity, technical depth, and problem-solving skills.
-
-⸻
-
-14. Conclusion
-
-The 3D Portfolio Web Application is a technically rich and visually engaging project that effectively showcases modern web development capabilities. It combines creativity with engineering best practices and serves as a strong academic and professional evaluation project.
